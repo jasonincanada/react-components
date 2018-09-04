@@ -1,0 +1,16 @@
+.App-header {
+  text-align: center;
+  background-color: #333;
+  height: 50px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title { font-size: 1.5em; }
+
+.component { width: 600px; margin: 0px auto; }
+.component p { color: #555; line-height: 18pt; }
+.component-demo { margin: 10px 0px; padding: 10px 0px; border-top: 1px solid #CCC; border-bottom: 1px solid #CCC;}
+.component-properties { font-size: 12pt; color: #888; }
+
+

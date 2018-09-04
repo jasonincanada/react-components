@@ -1,0 +1,14 @@
+.people-proportion {
+  width: 600px;
+  margin: 0px auto;
+}
+
+.people-proportion-images {
+  width: 100%;
+  text-align: left;
+}
+
+.people-proportion img {
+  padding-right: 2px;
+}
+
