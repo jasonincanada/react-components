@@ -22,11 +22,11 @@ class App extends Component {
           </p>
 
           <div className="component-demo">
-            <PeopleProportion size="750" possible="54189528" actual="98576" />
+            <PeopleProportion size="750" possible="437600" actual="178656" />
           </div>
 
           <div className="component-properties">
-            <tt>&lt;PeopleProportion size="750" possible="54189528" actual="98576" /&gt;</tt>
+            <tt>&lt;PeopleProportion size="750" possible="437600" actual="178656" /&gt;</tt>
           </div>
         </div>
       </div>
