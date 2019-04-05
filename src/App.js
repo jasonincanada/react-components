@@ -25,11 +25,11 @@ class App extends Component {
           </p>
 
           <div className="component-demo">
-            <PartridgePuzzle scale="15" puzzleId="0" />
+            <PartridgePuzzle scale="15" puzzleId="1" />
           </div>
 
           <div className="component-properties">
-            <tt>&lt;PartridgePuzzle scale="15" puzzleId="0" /&gt;</tt>
+            <tt>&lt;PartridgePuzzle scale="15" puzzleId="1" /&gt;</tt>
           </div>
         </div>
 
